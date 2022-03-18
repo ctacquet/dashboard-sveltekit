@@ -1,0 +1,1 @@
+<p>This is our bounded context</p>
